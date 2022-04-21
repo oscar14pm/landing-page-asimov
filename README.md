@@ -9,5 +9,3 @@ This repository contains the landing page for the asimov project
 * Joaquin San Martin Alvarez - U201910511
 * Yordy Rolando Mochcco Atauje - U201923959
 * Oscar Enrique palomino medina - U201822717
-
-See [Landing Page deployed](https://cybersoft-asimov-20212.github.io/landing-page-asimov/).
