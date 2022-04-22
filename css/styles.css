@@ -39,7 +39,7 @@ body nav li {
     padding: 10% 20%;
 }
 .tf_one h4 {
-    font-weight: bold;
+    font-weight: bold;    
 }
 .tf_one h1 {
     font-weight: bold;
@@ -56,6 +56,7 @@ body nav li {
     font-size: 25px;
     font-weight: bold;
 }
+
 /* Section 2 */
 .tf_two{
     padding: 10% 20%;
@@ -78,6 +79,7 @@ body nav li {
     font-size: 25px;
     font-weight: bold;
 }
+
 /* Section 3 */
 .tf_three{
     padding: 20% 20%;
@@ -105,42 +107,35 @@ body nav li {
     line-height: 25px;
 }
 
-/* Section 5 */
-.tf_five{
+/* Section 4 */
+.tf_four{
     padding: 20% 20%;
 }
-.tf_five h1 {
+.tf_four h1 {
     font-weight: bold;
     font-size: 70px;
     padding-right: 5px;
     line-height: 65px;
 }
-.tf_five p {
+.tf_four p {
     font-size: 23px;
     line-height: 23px;
-}
-/* Section 6*/
-.td_six {
-    padding: 0px;
 }
 
-.tf_six{
-    padding: 10% 10%;
+.td_four {
+    padding: 10% 80px;
 }
-.tf_six h1 {
+.td_four h4 {
     font-weight: bold;
-    font-size: 70px;
-    padding-right: 5px;
-    line-height: 65px;
+    font-size: 22px;
 }
-.tf_six p {
-    font-size: 23px;
-    line-height: 23px;
-    margin-top: 20px;
+.td_four a {
+    font-size: 16px;
 }
-.tf_six a {
-    font-size: 25px;
-    font-weight: bold;
+.td_four p {
+    margin-top: 25px;
+    font-size: 20px;
+    line-height: 25px;
 }
 
 /* Footer */
